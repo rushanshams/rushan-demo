@@ -1,4 +1,4 @@
 # rushan-demo
 This is my first Git Repositry that i created with my own will.
 <br>
-Author - Rushan Shams
+Author - Rushan (Coding)
